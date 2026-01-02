@@ -5,7 +5,7 @@ requires-python = ">=3.12"
 [[package]]
 name = "aioffmpeg"
 version = "0.1.0"
-source = { git = "https://github.com/nrvai/aioffmpeg#776a5142e8598ec4169f68dc50c43ab386431a0d" }
+source = { git = "https://github.com/nrvai/aioffmpeg#9c2b31fa003b504055d8539e603e422fbc98eb84" }
 dependencies = [
     { name = "numpy" },
     { name = "yarl" },
