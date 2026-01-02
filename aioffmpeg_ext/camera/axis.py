@@ -2,7 +2,7 @@ from typing import Optional, Self
 
 import aioffmpeg.source.rtsp
 
-from aioffmpeg.source.common import Authentication
+from aioffmpeg.common.authentication import Authentication
 
 
 __all__ = (
